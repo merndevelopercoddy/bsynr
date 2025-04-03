@@ -1,0 +1,46 @@
+[
+    {
+        "id":"2111",
+        "sinf":"2",
+        "chorak":"1",
+        "mavzu":"Unli va undosh tovushlar",
+        "daraja":"Eng oson"
+    },
+    {
+        "id":"2112",
+        "sinf":"2",
+        "chorak":"1",
+        "mavzu":"Unli va undosh tovushlar",
+        "daraja":"Oson"
+    },
+    {
+        "id":"2113",
+        "sinf":"2",
+        "chorak":"1",
+        "mavzu":"Unli va undosh tovushlar",
+        "daraja":"Sal murakkab"
+    },
+
+    {
+        "id":"2121",
+        "sinf":"2",
+        "chorak":"1",
+        "mavzu":"Harf birikmasi bilan ifodalangan undoshlar",
+        "daraja":"Eng oson"
+    },
+    {
+        "id":"2122",
+        "sinf":"2",
+        "chorak":"1",
+        "mavzu":"Harf birikmasi bilan ifodalangan undoshlar",
+        "daraja":"Oson"
+    },
+    {
+        "id":"2123",
+        "sinf":"2",
+        "chorak":"1",
+        "mavzu":"Harf birikmasi bilan ifodalangan undoshlar",
+        "daraja":"Sal murakkab"
+    }
+
+]
