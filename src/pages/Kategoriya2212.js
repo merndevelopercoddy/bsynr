@@ -9,10 +9,10 @@ const Kategoriya2212 = () => {
             <b>1-mashq. Tutuq belgisini to‘g‘ri qo‘yib, so‘zlarni yozing.</b><br />
             <i>Ta’limiy maqsad:</i> O‘quvchilarning so‘zlar imlosi ustida ishlash ko‘nikmalarini rivojlantirish.<br />
             <i>Mashg‘ulot davomiyligi:</i> 3 daqiqa <br />
-            <p>ananaviy - ________________________________________</p>
-            <p>mashala - _________________________________________</p>
-            <p>jurat - ____________________________________________</p>
-            <p>saroybon - _________________________________________</p>
+            <p className="text-break">ananaviy - ________________________________________</p>
+            <p className="text-break">mashala - _________________________________________</p>
+            <p className="text-break">jurat - ____________________________________________</p>
+            <p className="text-break">saroybon - _________________________________________</p>
             <p><b>2-mashq. Juftlikda ishlang. Tutuq belgili so‘zlarni qatnashtirib gaplar tuzing.</b></p>
             <p><i>Ta'limiy maqsad:</i>O‘quvchilarning gap ustida ishlash ko‘nikmalarini rivojlantirish.</p>
             <p><i>Mashg‘ulot davomiyligi:</i>3-4 daqiqa</p>
@@ -21,8 +21,8 @@ const Kategoriya2212 = () => {
             <p><b>3-mashq. FDM usuli asosida tutuq belgisi haqida fikr yuriting.</b></p>
             <p><i>Ta’limiy maqsad:</i>O‘quvchilarning bog‘lanishli nutqini rivojlantirish ko‘nikmalarini rivojlantirish.</p>
             <p><i>Mashg‘ulot davomiyligi:</i>3-4 daqiqa.</p>
-            <p>Dalil - _________________________________________________________</p>
-            <p>Misol - _______________________________________________________</p>
+            <p className="text-break">Dalil - _________________________________________________________</p>
+            <p className="text-break">Misol - _______________________________________________________</p>
         </div>
     )
 }

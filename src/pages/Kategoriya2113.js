@@ -35,8 +35,8 @@ const Kategoriya2113 = () => {
             <p><b>5-mashq.  Maqolning davomini yozing va izohlang.</b></p>
             <p><i>Ta’limiy maqsad:</i>O‘quvchilarning sintaktik ko‘nikmalarini rivojlantirish.</p>
             <p><i>Mashg‘ulot davomiyligi:</i>3-4 daqiqa.</p>
-            <p>Ko‘kka …, yuzingga …. . __________________________________________</p>
-            <p>Sayoq …, … yeysan. ______________________________________________</p>
+            <p className="text-break">Ko‘kka …, yuzingga …. . __________________________________________</p>
+            <p className="text-break">Sayoq …, … yeysan. ______________________________________________</p>
             <p><b>6-mashq. Kichik guruhlarda ishlash. Quyida berilgan so‘zlar to‘plamini o‘quvchilarga berish va so‘zlarni bo‘g‘inlar miqdoriga ko‘ra guruhlab chiqish.</b></p>
             <p><i>Ta’limiy maqsad:</i>O‘quvchilarni hamkorlikda mustaqil faoliyat yuritishga o‘rgatish.</p>
             <p><i>Mashg‘ulot davomiyligi:</i>3-4 daqiqa.</p>

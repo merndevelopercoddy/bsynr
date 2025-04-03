@@ -13,9 +13,9 @@ const Kategoriya2211 = () => {
             <p><b>2-mashq. Juftlikda ishlang. Kerakli o‘rinlarga tutuq belgisi qo‘ying va yozing.</b></p>
             <p><i>Ta’limiy maqsad:</i> O‘quvchilarning so‘zlar imlosi ustida ishlash ko‘nikmalarini rivojlantirish.</p>
             <p><i>Mashg‘ulot davomiyligi:</i>3-4 daqiqa.</p>
-            <p>Malumot - ____________________________________</p>
-            <p>Talim - _______________________________________</p>
-            <p>Manaviyat - ____________________________________</p>
+            <p className="text-break">Malumot - ____________________________________</p>
+            <p className="text-break">Talim - _______________________________________</p>
+            <p className="text-break">Manaviyat - ____________________________________</p>
             <p>Taziya - _________________________________________</p>
             <p><b>3-mashq. Tez aytishni davom ettiring, nuqtalar o‘rniga mos so‘zni qo‘ying.</b></p>
             <p><i>Ta’limiy maqsad:</i>O‘quvchilarning bog‘lanishli nutqini rivojlantirish ko‘nikmalarini rivojlantirish.</p>

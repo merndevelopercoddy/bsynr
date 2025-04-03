@@ -33,7 +33,7 @@ const Kategoriya2123 = () => {
             <p><b> 3-mashq. Juftlikda ishlang. Quyidagi iboralarning ma’nosini toping.</b></p>
             <p><i>Ta’limiy maqsad:</i>O‘quvchilarning iboralar ustida ishlash ko‘nikmalarini rivojlantirish.</p>
             <p><i>Mashg‘ulot davomiyligi:</i>3-4 daqiqa.</p>
-            <img src={kategory2123} alt="kategory2123" />
+            <img src={kategory2123} alt="kategory2123" className="img-thumbnail" />
         </div>
     )
 }

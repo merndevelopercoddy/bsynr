@@ -13,8 +13,8 @@ const Kategoriya2221 = () => {
             <p><b>2-mashq. Juftlikda ishlang. Kerakli o‘rinlarga yonma-yon kelgan rr undoshlarini qo‘ying va yozing.</b></p>
             <p><i>Ta’limiy maqsad:</i> O‘quvchilarning so‘zlar imlosi ustida ishlash ko‘nikmalarini rivojlantirish.</p>
             <p><i>Mashg‘ulot davomiyligi:</i>3-4 daqiqa.</p>
-            <p>A……a - ________________________________________</p>
-            <p>Ma……a - _______________________________________</p>
+            <p className="text-break">A……a - ________________________________________</p>
+            <p className="text-break">Ma……a - _______________________________________</p>
             <p><b>3-mashq. Tez aytishni o‘qing va yonma-yon kelgan undoshning tagiga chizing.</b></p>
             <p><i>Ta’limiy maqsad:</i>O‘quvchilarning bog‘lanishli nutqini rivojlantirish ko‘nikmalarini rivojlantirish.</p>
             <p><i>Mashg‘ulot davomiyligi:</i>3-4 daqiqa.</p>
